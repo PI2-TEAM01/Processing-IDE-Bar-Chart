@@ -10,5 +10,8 @@ git clone https://github.com/PI2-TEAM01/Processing-IDE-Bar-Chart.git
 
 You will see that information of the glove will be processed by the bar chart.
 
+<p align=center>
+<img src="img/video.gif" title="Open Project">
+</p>
 
 Note : When the glove is connected to the computer, we get all the data through the Serial Connection. 
